@@ -1,7 +1,7 @@
 package main
 
 import (
-	somelogic "app/somelogic"
+	"app/somelogic"
 )
 
 func main() {
